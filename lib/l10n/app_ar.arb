@@ -1,0 +1,13 @@
+{
+    "app_title": "اسلامي",
+    "chapter_name" : "اسم السورة",
+    "quran" : "القران",
+    "hadeth" : "الحديث",
+    "mention" : "التسبيح",
+    "radio"  : "الاذاعة" ,
+    "settings" : "الأعدادات",
+     "theme" : "المظهر",
+     "language" : "اللغة",
+     "light" : "فاتح",
+     "dark" : "داكن"
+}
